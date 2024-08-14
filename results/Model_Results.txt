@@ -1,0 +1,25 @@
+10 Fold Cross Validation Results:
+TP = 27546
+FP = 17
+TN = 45905
+FN = 198
+Overall Accuracy = 0.98188
+Balanced Accuracy = 0.99625
+Precision = 0.98130
+Sensivity/Recall/TPR = 0.98188
+F1 Score = 0.98057
+Specificity/Efficiency/TNR = 0.99963
+MCC = 0.96617
+
+Independent Test Results:
+Overall Accuracy = 0.93063
+Precision = 0.93562
+Sensitivity/Recall/TPR = 0.93063
+F1 Score = 0.92878
+MCC = 0.87657
+Independent Test Results:
+Overall Accuracy = 0.88023
+Precision = 0.89223
+Sensitivity/Recall/TPR = 0.88023
+F1 Score = 0.88247
+MCC = 0.80465

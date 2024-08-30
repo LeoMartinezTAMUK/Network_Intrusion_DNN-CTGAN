@@ -49,4 +49,4 @@ For any issue please contact Avdesh Mishra, avdesh.mishra@tamuk.edu or myself at
 
 ## References
 
-1. M. H. Rahman, L. Martinez III, A. Mishra, M. Nijim, A. Goyal and D. Hicks, "Enhancing Intrusion Detection through Deep Learning and Generative Adversarial Network" accepted in 4. Interdisciplinary Conference on Electrics and Computer (INTCEC 2024) 11-13 June 2024, Chicago-USA
+L. Martinez, M. H. Rahman, A. Mishra, M. Nijim, A. Goyal and D. Hicks, "Enhancing Intrusion Detection Through Deep Learning and Generative Adversarial Network," 2024 4th Interdisciplinary Conference on Electrics and Computer (INTCEC), Chicago, IL, USA, 2024, pp. 1-6, doi: 10.1109/INTCEC61833.2024.10602926

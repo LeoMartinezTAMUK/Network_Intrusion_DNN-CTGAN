@@ -1,6 +1,6 @@
 # DNN-CTGAN
 
-Based on the research paper: Enhancing Intrusion Detection through Deep Learning and Generative Adversarial Network (Copy of the Research Article is included)
+Based on the research paper: Enhancing Intrusion Detection through Deep Learning and Generative Adversarial Network (Link to the Research Article is included)
 - The repository will include all materials, images, code, and information regarding the paper.
 
 # Table of Content

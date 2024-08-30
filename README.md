@@ -43,7 +43,7 @@ git clone https://github.com/LeoMartinezTAMUK/Network_Intrusion_DNN-CTGAN.git
 
 ## Authors
 
-Md Habibur Rahman, Leo Martinez III, Avdesh Mishra, Mais Nijim, Ayush Goyal and David Hicks. 
+Leo Martinez III, Md Habibur Rahman, Avdesh Mishra, Mais Nijim, Ayush Goyal and David Hicks. 
 
 For any issue please contact Avdesh Mishra, avdesh.mishra@tamuk.edu or myself at leo.martinez@students.tamuk.edu 
 
